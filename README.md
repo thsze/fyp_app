@@ -1,6 +1,6 @@
 ## A Flutter application for HKUST CSB2 FYP Project "Gesture to Speech Glove" 2022-2023 (SZE, Tak Ho, LEE, Wing Piu, KWONG, Chun Yiu)
 
-The application is written in Flutter and is designed to be paired with the "Gesture to Speech Glove" via Bluetooth. 
+The application is developed with Flutter and is designed to be paired with the "Gesture to Speech Glove" via Bluetooth. 
 
 It includes the following features:
 
